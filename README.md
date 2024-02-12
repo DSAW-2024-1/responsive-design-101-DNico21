@@ -7,6 +7,8 @@
 
 Bienvenido al taller de desarrollo web donde aprenderemos a crear y estilizar una página sencilla de recetas. Este taller se divide en dos partes:
 
+## LINK PAGINA WEB: https://dsaw-2024-1.github.io/responsive-design-101-DNico21/
+
 ## Responsive Design
 El objetivo de este taller es hacer que la página que ya desarrollamos se vea correctamente en los 4 viewports presentados a continuación:
 
