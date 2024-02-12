@@ -209,3 +209,26 @@ span
         font-size: 3rem;
     }
 }
+
+@keyframes scrollAnimation {
+    0% {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+.main,
+.container,
+.Prepa,
+.Ingre,
+.Instru,
+h1,
+h2,
+p,
+table,
+span {
+    animation: scrollAnimation 1s ease-out;
+}
